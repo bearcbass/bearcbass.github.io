@@ -1,0 +1,4 @@
+baseURL = 'https://sebastianosorio.org/'
+languageCode = 'en-us'
+title = 'Sebastian Osorio Portfolio'
+theme = 'hugo-liftoff'
