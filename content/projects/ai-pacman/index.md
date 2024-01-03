@@ -1,6 +1,6 @@
 ---
-title: Ai Pacman
-seo_title: Ai Pacman
+title: AI Pacman
+seo_title: AI Pacman
 summary: 
 description: 
 slug: ai-pacman
