@@ -7,6 +7,9 @@ description: Learn more about my background and experience.
 
 newsletter: false
 ---
+![With Friends](wfriends.png)
+
+
 I am a fourth-year Applied Mathematics student at Univerity of California, 
 Santa Cruz. Currently, I am interested in the world of Artificial Intelligence
 and Software Development. More specifically, I am intrigued by how we can automate
