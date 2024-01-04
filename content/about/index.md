@@ -1,26 +1,11 @@
 ---
-title: About
+type: about
+linktitle: About
+title: Hi, my name is Sebastian.
 seo_title: About
-summary: 
-description: 
-slug: about
-author: <no value>
-
-date: 2024-01-02T15:55:33-08:00
-lastmod: 
-expiryDate: 
-publishDate: 
-
-feature_image: 
-feature_image_alt: 
-
-project types: 
-
-techstack:
-live_url: 
-source_url: 
+description: Learn more about my background and experience.
 
 newsletter: false
 ---
-
-# This is me sebastian
+I am a fourth-year Applied Mathematics student at Univerity of California, 
+Santa Cruz.

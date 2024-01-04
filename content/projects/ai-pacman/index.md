@@ -1,7 +1,8 @@
 ---
 title: AI Pacman
 seo_title: AI Pacman
-summary: 
+summary: "for
+blah blah"
 description: 
 slug: ai-pacman
 author: <no value>
@@ -14,9 +15,12 @@ publishDate:
 feature_image: 
 feature_image_alt: 
 
-project types: 
+project types:
+  - Artificial Intelligence
 
 techstack:
+    - Python
+
 live_url: 
 source_url: 
 

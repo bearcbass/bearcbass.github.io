@@ -14,9 +14,13 @@ publishDate:
 feature_image: 
 feature_image_alt: 
 
-project types: 
+project types:
+  - Mathematical Computation
 
 techstack:
+  - Fortran
+  - Python
+
 live_url: 
 source_url: 
 

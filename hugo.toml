@@ -1,4 +1,10 @@
 baseURL = 'https://sebastianosorio.org/'
 languageCode = 'en-us'
-title = 'Sebastian Osorio Portfolio'
+title = "Sebastian's Portfolio"
 theme = 'hugo-liftoff'
+
+[taxonomies]
+    tag = 'tags'
+    category = 'categories'    
+    series = 'series' # Allows you to create an organized series of posts (e.g. multi-part tutorial)
+    project-type = 'project types' # Categorize projects by type (e.g. client work, personal, open source, etc.)
