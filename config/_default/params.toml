@@ -9,7 +9,7 @@ avatar = 'images/sebas.png' # Custom avatar image in /assets/
 grayscale_avatar = false # Add a grayscale filter to the avatar image
 author = 'bearcbass' # Default author for <head> meta
 description = "Personal blog and portfolio site of John Doe." # Add a global meta description to <head>
-footer_text = "Built with [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff) theme." # Customize footer text
+footer_text = "" # Customize footer text
 fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
@@ -50,7 +50,7 @@ about_page_socials = false
 [social.links]
   github = "bearcbass"
   email = "user@example.com"
-  linkedin = "sebastianosorio"
+  linkedin = "sebastian-osorio-31b82419b"
   
 # Enable or disable individual social share icons in posts
 [social.share]
