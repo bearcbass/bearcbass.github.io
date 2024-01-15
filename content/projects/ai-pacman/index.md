@@ -12,8 +12,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: 
-feature_image_alt: 
+feature_image: ai_pacman.png
+feature_image_alt: AI PacMan
 
 project types:
   - Artificial Intelligence

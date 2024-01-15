@@ -27,3 +27,10 @@ source_url:
 newsletter: false
 ---
 
+#Quick Summary:
+
+My final project for Applied Mathematics 129: Foundations of Scientific Computing at University of California, Santa Cruz was to create a simulation of the Fermi-Pasta-Ulam-Tsingou (FPUT) problem. This simulation demonstrates both nonlinear and linear versions of the FPUT problem.
+
+More information included at my github page:
+
+<a href="https://github.com/bearcbass/Fermi-Pasta-Ulam-Tsingou-Problem" class="button">Source Code</a>
