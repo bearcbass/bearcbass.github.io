@@ -1,8 +1,8 @@
 ---
 title: AI Pacman
 seo_title: AI Pacman
-summary: "for
-blah blah"
+summary: "AI pacman project based on the Berekely AI course of the same name. The goal is to
+to learn how to implement AI search agents based on different algorithms."
 description: 
 slug: ai-pacman
 author: <no value>
