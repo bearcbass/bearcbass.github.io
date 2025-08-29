@@ -10,8 +10,7 @@ newsletter: false
 ![With Friends](wfriends.png)
 
 
-I am a fourth-year Applied Mathematics student at Univerity of California, 
-Santa Cruz. Currently, I am interested in the world of Artificial Intelligence
+I am a recently graduated Masters of Science in Applied Mathematics and Scientific Computation student from Univerity of California, Santa Cruz. Currently, I am interested in the world of Artificial Intelligence
 and Software Development. More specifically, I am intrigued by how we can automate
 processes in our everyday life which can then give us more time to do the things we
 love. 

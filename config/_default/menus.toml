@@ -1,3 +1,8 @@
+# This is the thing at the top right of the website that has the Projects, About buttons. 
+# identifier gives it a code, name is name, and url is the url to point to.
+# weight is for the order to place the button in. 
+
+
 [[main]]
     identifier = "projects"
     name = "Projects"
