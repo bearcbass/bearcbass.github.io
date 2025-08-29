@@ -33,4 +33,5 @@ My final project for Applied Mathematics 129: Foundations of Scientific Computin
 
 More information included at my github page:
 
-<a href="https://github.com/bearcbass/Fermi-Pasta-Ulam-Tsingou-Problem" class="button">Source Code</a>
+<a href="https://github.com/bearcbass/Fermi-Pasta-Ulam-Tsingou-Problem"
+   class="btn-primary" target="_blank" rel="noopener">Source Code</a>
