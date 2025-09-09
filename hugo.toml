@@ -4,7 +4,7 @@ title = "Sebastian's Portfolio"
 theme = 'hugo-liftoff'
 
 [params]
-    custom_css = "css/custom.css"
+    custom_css = "/Users/bearcbass/bearcbass.github.io/assets/css/custom.css"
 
 [taxonomies]
     tag = 'tags'
