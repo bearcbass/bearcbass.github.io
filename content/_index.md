@@ -12,7 +12,7 @@ projects_section_heading: My Projects
 newsletter: false
 ---
 
-{{< projects 5 class="fixed=height">}}
+{{< projects "5" "fixed-height">}}
 
 
 
