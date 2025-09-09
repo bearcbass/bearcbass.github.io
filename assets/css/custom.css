@@ -1,30 +1,23 @@
 /*
  This targets the main container holding the project cards.
- We are making it a flex container to control the alignment of the cards inside.
 */
 .card-deck {
-  display: flex;
-  flex-wrap: wrap;
+  display: flex !important;
+  flex-wrap: wrap !important;
 }
 
 /*
  This targets each individual project card.
- By setting 'display: flex' and 'flex-direction: column', we make the
- content inside the card (image, title, text, button) stack vertically.
- This is crucial for the next step.
 */
 .card-deck .card {
-  display: flex;
-  flex-direction: column;
+  display: flex !important;
+  flex-direction: column !important;
 }
 
 /*
- This is the most important part.
- It targets the main body of the card (the text area) and tells it
- to grow and fill any available empty space. This pushes the "Source"
- button (which is in the .card-footer) to the bottom, ensuring all
- buttons are perfectly aligned regardless of how much text is in each card.
+ This targets the main body of the card (the text area) and tells it
+ to grow and fill any available empty space, ensuring buttons align.
 */
 .card-deck .card .card-body {
-  flex-grow: 1;
+  flex-grow: 1 !important;
 }
