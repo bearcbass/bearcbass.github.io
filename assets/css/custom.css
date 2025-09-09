@@ -1,0 +1,31 @@
+/*
+ This code targets the container for the project cards.
+ We are turning it into a flex container, which gives us
+ more control over the alignment of the items inside.
+*/
+.projects-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows cards to wrap to the next line on smaller screens */
+}
+
+/*
+ This targets each individual project card. By setting height to 100%,
+ we ensure that each card in a row stretches to match the height of the
+ tallest card. We also make the card itself a flex container so we can
+ align its content.
+*/
+.project-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/*
+ This is the key part. It targets the main body of the card
+ (the text area) and tells it to grow and fill any available
+ empty space. This pushes the "Source" button to the bottom,
+ ensuring all buttons are aligned regardless of text length.
+*/
+.project-card .card-body {
+    flex-grow: 1;
+}

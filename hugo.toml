@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = "Sebastian's Portfolio"
 theme = 'hugo-liftoff'
 
+[params]
+    custom_css = ["css/custom.css]
+
 [taxonomies]
     tag = 'tags'
     category = 'categories'    
