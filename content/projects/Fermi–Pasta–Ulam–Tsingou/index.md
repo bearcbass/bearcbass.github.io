@@ -11,7 +11,7 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: fput_string.gif
+feature_image: fputimage.png
 feature_image_alt: FPUTString
 
 project types:
