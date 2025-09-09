@@ -1,6 +1,6 @@
 ---
 title: test
-seo_title:test
+seo_title: test
 summary: "this is the summary taken from the header"
 description: "this is the description taken from the header"
 slug: blahblah
