@@ -29,6 +29,8 @@ newsletter: false
 
 My final project for Applied Mathematics 129: Foundations of Scientific Computing at the University of California, Santa Cruz was a simulation of the Fermi-Pasta-Ulam-Tsingou (FPUT) problem, demonstrating both its linear and nonlinear forms. The simulation models a chain of connected masses (like beads on a spring) using Leapfrog integration, tracking the motion of each mass over time and outputting the trajectories and parameters to study wave propagation and oscillatory dynamics in a 1D system.
 
+In the simulation, the system is represented as a string of beads connected by springs, where each bead corresponds to a mass. When one or more beads are displaced, energy is initially localized in certain modes of the system. Over time, this energy spreads through the beads in a complex, often non-intuitive way, leading to oscillations that can appear almost chaotic. In the linear case, energy tends to distribute evenly among the beads, forming predictable wave patterns, while in the nonlinear case, the energy exhibits recurring behavior, concentrating back into the original modes after some time. This dynamic illustrates one of the surprising results of the FPUT problem: even in a seemingly simple system, nonlinear interactions can produce quasi-periodic energy transfers, rather than the complete thermalization one might expect.
+
 ### Animations
 
 **Basic string motion:**
