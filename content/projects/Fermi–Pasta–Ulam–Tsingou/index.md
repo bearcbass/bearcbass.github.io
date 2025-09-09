@@ -33,8 +33,5 @@ In the simulation, the system is represented as a string of beads connected by s
 
 ### Animations
 
-**Basic string motion:**
-![FPUT String motion](fput_string.gif)
-
 **String Motion with Displacement vs. Time plot:**
 <img src="string_with_plot.gif" alt="FPUT string with plot" style="width:100%; max-width:1000px;">
