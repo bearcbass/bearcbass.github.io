@@ -11,8 +11,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image:
-feature_image_alt:
+feature_image: fput_bead_schematic.png
+feature_image_alt: schematic_fput_bead
 
 project types:
   - Mathematical Computation
