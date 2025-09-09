@@ -34,5 +34,5 @@ My final project for Applied Mathematics 129: Foundations of Scientific Computin
 **Basic string motion:**
 ![FPUT String motion](fput_string.gif)
 
-**String Motion with displacement vs. time plot:**
-![FPUT string with plot](string_with_plot.gif)
+**String Motion with Displacement vs. Time plot:**
+<img src="string_with_plot.gif" alt="FPUT string with plot" style="width:100%; max-width:800px;">
