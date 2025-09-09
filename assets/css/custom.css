@@ -1,23 +1,27 @@
 /*
- This targets the main container holding the project cards.
+ This targets the main container for the projects and ensures it behaves
+ as a flex container, allowing items to wrap on smaller screens.
 */
-.card-deck {
+.project-list {
   display: flex !important;
   flex-wrap: wrap !important;
 }
 
 /*
- This targets each individual project card.
+ This targets each individual project card within the list.
+ We're telling the card itself to also be a flex container, with its
+ internal items (image, text, etc.) stacked in a column.
 */
-.card-deck .card {
+.project-list .project-entry {
   display: flex !important;
   flex-direction: column !important;
 }
 
 /*
- This targets the main body of the card (the text area) and tells it
- to grow and fill any available empty space, ensuring buttons align.
+ This is the key part. We target the main content area inside the card
+ and tell it to "grow" to fill any empty space. This pushes all content
+ below it to the bottom of the card, creating perfect alignment.
 */
-.card-deck .card .card-body {
+.project-list .project-entry .project-entry-content {
   flex-grow: 1 !important;
 }
