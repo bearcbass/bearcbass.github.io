@@ -1,7 +1,7 @@
 ---
 title: test
 seo_title: test
-summary: "this is the summary taken from the header"
+summary: "Im writing a lot here to see how big the project box becomes to see if it gets smaller or bigger."
 description: "this is the description taken from the header"
 slug: blahblah
 author: bearcbass
