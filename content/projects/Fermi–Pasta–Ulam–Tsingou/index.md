@@ -11,8 +11,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: fputimage.png
-feature_image_alt: FPUTString
+feature_image:
+feature_image_alt:
 
 project types:
   - Mathematical Computation
