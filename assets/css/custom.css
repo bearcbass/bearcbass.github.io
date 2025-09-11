@@ -5,6 +5,8 @@
 .project-list {
   display: flex !important;
   flex-wrap: wrap !important;
+  gap: 1.5rem !important;
+  justify-content: center !important;
 }
 
 /*
@@ -15,6 +17,9 @@
 .project-list .project-entry {
   display: flex !important;
   flex-direction: column !important;
+  flex: 1 1 300px !important;
+  max-width: 350px !important;
+  min-height: 400px !important;
 }
 
 /*
@@ -22,6 +27,33 @@
  and tell it to "grow" to fill any empty space. This pushes all content
  below it to the bottom of the card, creating perfect alignment.
 */
-.project-list .project-entry .project-entry-content {
+.project-list .project-entry .project-entry-info {
   flex-grow: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.project-list .project-entry .project-list-summary {
+  flex-grow: 1 !important;
+}
+
+/* Fixed height grid layout for equal height cards */
+.project-list.fixed-height-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+  gap: 1.5rem !important;
+  justify-items: center !important;
+}
+
+.project-list.fixed-height-grid .project-entry {
+  width: 100% !important;
+  max-width: 350px !important;
+  height: 100% !important;
+  min-height: 450px !important;
+}
+
+/* Ensure buttons stay at bottom */
+.project-list .project-entry .btn-group {
+  margin-top: auto !important;
+  padding-top: 1rem !important;
 }
