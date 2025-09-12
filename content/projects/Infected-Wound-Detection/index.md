@@ -6,7 +6,7 @@ description: "The project uses colony forming units (CFUs) as a classification m
 slug: ml-multiclass-classification
 author: bearcbass
 
-date: 2024-01-02T15:55:33-08:00
+date: 2025-08-19T15:55:33-08:00
 lastmod: 
 expiryDate: 
 publishDate: 
