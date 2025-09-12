@@ -3,7 +3,7 @@ title: Infected Wound Classification
 seo_title: Infected Wound Classification
 summary: "An overview of my masters thesis project.  "
 description: "The project uses colony forming units (CFUs) as a classification metric for infection, leveraging computer vision and deep learning to analyze wound images."
-slug: ml-multiclass-classification
+slug: CFU-project
 author: bearcbass
 
 date: 2025-08-19T15:55:33-08:00
@@ -11,8 +11,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: assets/images/sebas.png
-feature_image_alt: "Image alt description"
+feature_image: 
+feature_image_alt:
 
 project types:
   - Machine Learning
