@@ -50,7 +50,7 @@ about_page_socials = false
 [social.links]
   github = "bearcbass"
   email = "bearcbass@gmail.com"
-  linkedin = "sebastian-osorio-31b82419b"
+  linkedin = "bearcbass"
   
 # Enable or disable individual social share icons in posts
 [social.share]
