@@ -26,7 +26,7 @@ global_newsletter = false # Enable newsletter site-wide
 
 ### Web schemas
 # Open Graph
-images = ['images/default.png'] # Fallback for Open Graph and Twitter Cards images if none are present in front matter. Enter path to the image.
+images = ['images/sebas.png'] # Fallback for Open Graph and Twitter Cards images if none are present in front matter. Enter path to the image.
 ogLocale = "en_US" # Open graph locale
 
 # Twitter Cards
