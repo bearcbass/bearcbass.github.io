@@ -1,4 +1,4 @@
-/* Cache bust: 2025-01-10-17:55 */
+/* Cache bust: 2025-01-10-18:30 */
 /*
  This targets the main container for the projects and ensures it behaves
  as a flex container, allowing items to wrap on smaller screens.
@@ -57,4 +57,27 @@
 .project-list .project-entry .btn-group {
   margin-top: auto !important;
   padding-top: 1rem !important;
+}
+
+/* Custom styling for project page images */
+.markdown .single-post-image {
+  max-width: 80% !important;
+  height: auto !important;
+  display: block !important;
+  margin: 2rem auto !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+}
+
+/* Center images in markdown content */
+.markdown div[style*="text-align: center"] {
+  text-align: center !important;
+  margin: 2rem 0 !important;
+}
+
+.markdown div[style*="text-align: center"] img {
+  max-width: 80% !important;
+  height: auto !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
 }
