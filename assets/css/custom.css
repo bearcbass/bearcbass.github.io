@@ -61,7 +61,7 @@
 
 /* Custom styling for project page images */
 .markdown .single-post-image {
-  max-width: 80% !important;
+  max-width: 95% !important;
   height: auto !important;
   display: block !important;
   margin: 2rem auto !important;
@@ -76,7 +76,7 @@
 }
 
 .markdown div[style*="text-align: center"] img {
-  max-width: 80% !important;
+  max-width: 95% !important;
   height: auto !important;
   border-radius: 8px !important;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
