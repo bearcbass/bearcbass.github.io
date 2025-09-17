@@ -11,7 +11,7 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: assets/images/sebas.png
+feature_image: threethreebands.jpeg
 feature_image_alt: "Image alt description"
 
 project types:
@@ -39,12 +39,18 @@ In the end we used Meta's SAM (Segment Anything Model) to handle the segmentatio
 
 Here's a showcase of our progress. We started with an image of resistors found online, then processed it through SAM to segment the resistor body.
 
-![Original Image](threethreebands.jpeg)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="threethreebands.jpeg" alt="Original Image" style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 After segmentation, we obtained the resistor with the color bands preserved. We then performed bit multiplication on the original image to maintain the resistor with its original colors. 
-![Result Image](result_image.jpg)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="result_image.jpg" alt="Result Image" style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 Finally, we used SAM again to differentiate and isolate the individual color bands on the resistors. 
 
-![Additional Image](asdf.png.jpeg)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="asdf.png.jpeg" alt="Additional Image" style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
