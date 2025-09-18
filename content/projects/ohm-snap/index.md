@@ -11,7 +11,7 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: projects/ohm-snap/threethreebands.jpeg
+feature_image: threethreebands.jpeg
 feature_image_alt: "Image alt description"
 
 project types:
