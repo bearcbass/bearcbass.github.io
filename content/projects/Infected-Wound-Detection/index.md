@@ -1,9 +1,9 @@
 ---
-title: Infected Wound Classification
-seo_title: Infected Wound Classification
+title: Infected Wound Image Classification
+seo_title: Infected Wound Image Classification
 summary: "An overview of my masters thesis project.  "
 description: "The project uses colony forming units (CFUs) as a classification metric for infection, leveraging computer vision and deep learning to analyze wound images."
-slug: infected-wound-detection
+slug: infected-wound-Image-detection
 author: bearcbass
 
 date: 2025-08-19T15:55:33-08:00
@@ -28,7 +28,7 @@ source_url: https://drive.google.com/file/d/1b0c6nWFWiL0CXI0E0Tmg5p-ruU00a59q/vi
 newsletter: false
 ---
 
-# Deep Learning for Wound Infection Detection
+# Deep Learning for Wound Infection Image Detection
 
 For my master’s thesis at UC Santa Cruz, I developed a deep learning model to classify wound infections from images. The project addressed a critical healthcare challenge: early detection of wound infections, which, if missed, can lead to severe complications like sepsis.
 
