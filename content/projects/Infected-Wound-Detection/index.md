@@ -23,7 +23,7 @@ techstack:
   - Labelbox
 
 live_url: 
-source_url: https://drive.google.com/file/d/1b0c6nWFWiL0CXI0E0Tmg5p-ruU00a59q/view?usp=sharing
+source_url: https://escholarship.org/uc/item/87f776mz
 
 newsletter: false
 ---
