@@ -7,8 +7,6 @@ description:
 newsletter: false
 ---
 
-# Sebastian's Resume
-
 <div style="text-align: center; margin: 2rem 0;">
     <img src="/resumeImage.png" alt="Sebastian's Resume" style="width: 100%; max-width: 800px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 1rem;">
 </div>
