@@ -7,7 +7,7 @@ description: Learn more about my background and experience.
 
 newsletter: false
 ---
-![With Friends](wfriends.png)
+![With Family](gradWFamily.png)
 
 
 I am a recently graduated Masters of Science in Applied Mathematics and Scientific Computation student from Univerity of California, Santa Cruz. Currently, I am interested in the world of Artificial Intelligence
