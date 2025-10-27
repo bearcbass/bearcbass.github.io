@@ -14,3 +14,9 @@
     name = "About"
     url = "/about/"
     weight = 2
+
+[[main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 3
